@@ -7,3 +7,12 @@ C:\Users\cesarvfonseca\Documents\GitHub\C#\reporteTest\reporteTest\reportvwr\obj
 C:\Users\cesarvfonseca\Documents\GitHub\C#\reporteTest\reporteTest\reportvwr\obj\Debug\reportvwr.csproj.GenerateResource.Cache
 C:\Users\cesarvfonseca\Documents\GitHub\C#\reporteTest\reporteTest\reportvwr\obj\Debug\reportvwr.exe
 C:\Users\cesarvfonseca\Documents\GitHub\C#\reporteTest\reporteTest\reportvwr\obj\Debug\reportvwr.pdb
+C:\Users\cvalenciano\Documents\GitHub\reporteTest\reporteTest\reportvwr\bin\Debug\reportvwr.exe.config
+C:\Users\cvalenciano\Documents\GitHub\reporteTest\reporteTest\reportvwr\obj\Debug\reportvwr.exe
+C:\Users\cvalenciano\Documents\GitHub\reporteTest\reporteTest\reportvwr\bin\Debug\reportvwr.exe
+C:\Users\cvalenciano\Documents\GitHub\reporteTest\reporteTest\reportvwr\bin\Debug\reportvwr.pdb
+C:\Users\cvalenciano\Documents\GitHub\reporteTest\reporteTest\reportvwr\obj\Debug\reportvwr.csprojResolveAssemblyReference.cache
+C:\Users\cvalenciano\Documents\GitHub\reporteTest\reporteTest\reportvwr\obj\Debug\reportvwr.Form1.resources
+C:\Users\cvalenciano\Documents\GitHub\reporteTest\reporteTest\reportvwr\obj\Debug\reportvwr.Properties.Resources.resources
+C:\Users\cvalenciano\Documents\GitHub\reporteTest\reporteTest\reportvwr\obj\Debug\reportvwr.csproj.GenerateResource.Cache
+C:\Users\cvalenciano\Documents\GitHub\reporteTest\reporteTest\reportvwr\obj\Debug\reportvwr.pdb

@@ -13,7 +13,8 @@ namespace reportvwr
     public partial class Form1 : Form
     {
 
-        int[] largo = {9,10};
+        int[] largo = {3,15,12,3};
+        string[] datos = {"HL","Hitomi","Laine","23"};
 
         public Form1()
         {
@@ -24,23 +25,18 @@ namespace reportvwr
         {
             int numberOfLetters = cadena.Length;
             int ne = n - numberOfLetters;
-            string eBlanco = new string('/', ne);
+            string eBlanco = new string('+', ne);
             return cadena+eBlanco;
         }
 
         private void btnVer_Click(object sender, EventArgs e)
         {
-            int i=0;
-            string nombre = "Hitomi";
-            int ns = 9;
-            string ape = "Laine";
-            nombre=hl(nombre,ns);
-            foreach (int y in largo)
+            string nombres="";
+            for (int i = 0; i < largo.Length; i++)
             {
-                System.Console.Write("{0} ", y);
+                nombres = nombres + "" + hl(datos[i], largo[i]);
             }
-            
-            //MessageBox.Show("--"+nombre+"--","Important Message");
+            MessageBox.Show(nombres,"Mensaje Zukulemtozon!!!");
         }
     }
 }

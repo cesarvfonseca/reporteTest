@@ -35,7 +35,7 @@
             // 
             this.btnVer.Location = new System.Drawing.Point(12, 12);
             this.btnVer.Name = "btnVer";
-            this.btnVer.Size = new System.Drawing.Size(152, 37);
+            this.btnVer.Size = new System.Drawing.Size(254, 37);
             this.btnVer.TabIndex = 0;
             this.btnVer.Text = "Ver";
             this.btnVer.UseVisualStyleBackColor = true;
@@ -45,7 +45,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(176, 61);
+            this.ClientSize = new System.Drawing.Size(278, 61);
             this.Controls.Add(this.btnVer);
             this.Name = "Form1";
             this.Text = "Hitomi";
