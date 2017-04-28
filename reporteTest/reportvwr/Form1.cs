@@ -23,13 +23,13 @@ namespace reportvwr
         {
             InitializeComponent();
         }
-
+        //Añadir espacios necesarios al final del string
         private string hl(string cadena,int n)
         {
-            int numberOfLetters = cadena.Length;
-            int ne = n - numberOfLetters;
-            string eBlanco = new string('+', ne);
-            return cadena+eBlanco;
+            int numberOfLetters = cadena.Length;//Calcula la letras del string
+            int ne = n - numberOfLetters;//Calcular espacios en blanco a usar
+            string eBlanco = new string(' ', ne);//Asiga los espacion en blanco a la variable eBlanco
+            return cadena+eBlanco;//Regresa el string con los espacios en blanco
         }
 
         private void btnVer_Click(object sender, EventArgs e)
@@ -65,8 +65,6 @@ namespace reportvwr
             // Open the file to read from.
             string readText = File.ReadAllText(path);
             Console.WriteLine(readText);
-
-            
             
             //MessageBox.Show(nombres+ "\r\n" +series,"Mensaje Zukulemtozon!!!");
         }
